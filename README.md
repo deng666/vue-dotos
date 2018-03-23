@@ -11,3 +11,6 @@
 6、进入项目           【cd vue-dotos】
 7、运行项目           【npm run dev】
 8、打开浏览器，并输入http://localhost:8080会出现vue界面，即成功
+
+
+点击以下链接打开运行本示例: [在线演示](https://github.com/deng666)
